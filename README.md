@@ -75,24 +75,23 @@ Mapped workflow, insights, and presentation structure in Miro.
 ## 📁 Repository Structure
 
 ### ├── 1_Project_Description_and_Raw_Data
-│   ├── project_description.md
-│   └── raw_data.csv
+│ ├── project_description.md
+│ └── raw_data.csv
 │
 ### ├── 2_Project_Planning
-│   ├── miro_flowchart.png
-│   └── project_gantt_chart.png
+│ ├── miro_flowchart.png
+│ └── project_gantt_chart.png
 │
 ### ├── 3_Data_Processing
-│   ├── calculations.sql
-│   ├── working_file.xlsx
-│   └── processed_data.csv
+│ ├── calculations.sql
+│ ├── working_file.xlsx
+│ └── processed_data.csv
 │
 ### └── 4_Project_Presentation
-    ├── final_presentation.pdf
-    └── dashboards (Looker / Power BI
+ ├── final_presentation.pdf
+ └── dashboards (Looker / Power BI
     
-    ## <h2>🛠️ Tools & Technologies</h2>
-
+   
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr style="background-color: #4A90E2; color: white; text-align: left;">
