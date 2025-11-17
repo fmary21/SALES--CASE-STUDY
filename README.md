@@ -90,7 +90,8 @@ Mapped workflow, insights, and presentation structure in Miro.
 ### └── 4_Project_Presentation
  ├── final_presentation.pdf
  └── dashboards (Looker / Power BI
-    
+
+    ## 🛠️ Tools & Technologies
    
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
